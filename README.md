@@ -1,4 +1,4 @@
-# Descrição do Projeto
+# Descrição do Projeto (Parte 1/2)
 
 Este projeto foi desenvolvido como parte do curso de **Desenvolvimento Web com Django**. O **Django** é um framework robusto e eficiente, escrito em **Python**, que facilita a criação de aplicações web completas de maneira rápida e organizada.
 
